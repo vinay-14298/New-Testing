@@ -4,15 +4,22 @@
   "description": "MERN Demo CRUD Application",
   "main": "index.js",
   "scripts": {
-    "start": 
-        "cd mern-demo-crud-app-backend && npm install && npm start", 
-        "react-dev": "cd mern-demo-crud-app-frontend && npm start",
-        "test": "cd mern-demo-crud-app-backend && npm test",
-        "preinstall": "cd mern-demo-crud-app-backend && npm install",
-        "install": "cd mern-demo-crud-app-frontend && npm install",
-        "build": "cd mern-demo-crud-app-frontend && npm run build"
+    "start": "cd mern-demo-crud-app-backend && npm install && npm start",
+    "react-dev": "cd mern-demo-crud-app-frontend && npm start",
+    "test": "cd mern-demo-crud-app-backend && npm test",
+    "preinstall": "cd mern-demo-crud-app-backend && npm install",
+    "install": "cd mern-demo-crud-app-frontend && npm install",
+    "build": "cd mern-demo-crud-app-frontend && npm run build"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinay-14298/Qwings-deploy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vinay-14298/Qwings-deploy/issues"
+  },
+  "homepage": "https://github.com/vinay-14298/Qwings-deploy#readme"
 }
